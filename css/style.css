@@ -288,7 +288,7 @@ h6.shortcodes-caption{
 }
 
 #main-header blockquote{
-	margin: 62px 0 0 0;
+	margin: 62px 0 0 -40px;
 	padding:0;
 	border:none;
 	font-size: 18px;
